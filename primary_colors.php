@@ -8,6 +8,7 @@
 <li><?PHP echo "Yellow"; ?></li>
 <li><?PHP echo "Red   "; ?></li>
 <li><?PHP echo "Blue  "; ?></li>
+<li><?PHP echo "Blue  "; ?></li>
 </ul>
 </body>
 </html>
